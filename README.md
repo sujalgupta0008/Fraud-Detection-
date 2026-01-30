@@ -23,7 +23,7 @@ To develop a data-driven system that identifies potentially fraudulent financial
 - Simulate a real-world fraud monitoring and decision-support system
 
 # 🎉 Approach (Architecture):
-![Process Flow](https://user-images.githubusercontent.com/84115928/137479294-ccfa21f9-81e1-4de8-8f96-15ddefdec06e.JPG)
+![Process Flow](https://github.com/sujalgupta0008/Fraud-Detection-/blob/main/images/Gemini_Generated_Image_2l43z02l43z02l43.png?raw=true)
 
 
 # 💡 Conclusions
